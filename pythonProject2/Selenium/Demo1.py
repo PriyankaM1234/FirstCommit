@@ -332,5 +332,7 @@ s = SeleniumWrapper(driver)
 
 # click_element(("link text", "Register"))
 s.select_items(("id", "multiple_cars"), items=['Mercedes', 'Creta', 'BMW', 10])
+#######################################################################################
+
 
 
