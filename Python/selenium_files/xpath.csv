@@ -1,0 +1,5 @@
+lacator_name,x_path
+search_tf,//input[@placeholder='Search AJIO']
+search_b,//span[@class='ic-search']
+dropdown,//select
+text,//div[@class='contentHolder']
